@@ -1,0 +1,39 @@
+{
+  "mode": "block",
+  "tx": {
+    "msg": [
+      {
+        "type": "cosmos-sdk/MsgSend",
+        "value": {
+          "from_address": "cosmos14w57cc62jcv8cznewnxwl7p9zdcus38phakjzs",
+          "to_address": "cosmos1x47p0tjylnsmxyy33q4mhqtxhzwk5009fh35sq",
+          "amount": [
+            {
+              "amount": "500",
+              "denom": "ualtg"
+            }
+          ]
+        }
+      }
+    ],
+    "fee": {
+      "amount": [
+        {
+          "amount": "1",
+          "denom": "ualtg"
+        }
+      ],
+      "gas": "200000"
+    },
+    "memo": "hello from Curiosity",
+    "signatures": [
+      {
+        "signature": "Dfvipi3Z7QFnNNHsQWQqOmBqXZWdkexgLyCtnbyft6VVG2QkXm5NkSCxC7BgQo+4Mu6TvDJbljpn2D6xOjOQXg==",
+        "pub_key": {
+          "type": "tendermint/PubKeySecp256k1",
+          "value": "A2bzXW3CiLZyoA8S9fvDBJUtoNjEB/hVwI2QyqyHxUf7"
+        }
+      }
+    ]
+  }
+}
