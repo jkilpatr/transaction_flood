@@ -19,7 +19,7 @@
     "fee": {
       "amount": [
         {
-          "amount": "1",
+          "amount": "42",
           "denom": "ualtg"
         }
       ],
@@ -28,7 +28,7 @@
     "memo": "hello from Curiosity",
     "signatures": [
       {
-        "signature": "Dfvipi3Z7QFnNNHsQWQqOmBqXZWdkexgLyCtnbyft6VVG2QkXm5NkSCxC7BgQo+4Mu6TvDJbljpn2D6xOjOQXg==",
+        "signature": "7OTX7pR9gJ8N9uEe+0O4V+SOLnON620on912nySYbOpV6Djp2yeAbD3XQCkDW5K1k4EjpKCpOI2RUPxIxU1lEw==",
         "pub_key": {
           "type": "tendermint/PubKeySecp256k1",
           "value": "A2bzXW3CiLZyoA8S9fvDBJUtoNjEB/hVwI2QyqyHxUf7"
